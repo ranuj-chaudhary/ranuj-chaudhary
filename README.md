@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranuj Chaudhary</h1>
 <h3 align="center">I 'm passionate front-end developer specialized in building exceptional web apps based in Meerut, India 📍</h3>
 <img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tapesh-1308&label=Profile%20views&color=0e75b6&style=flat" alt="tapesh-1308" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranuj-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="ranuj-chaudhary" /> </p>
 
 <!-- - 👨‍💻 All of my projects are available at [Portfolio](https://addurl/) -->
 - 📫 How to reach me **ranujchoudhary@gmail.com**
