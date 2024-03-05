@@ -28,6 +28,5 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranuj-chaudhary&show_icons=true&locale=en" alt="ranuj-chaudhary" />
 </p>
 <br />
-<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranuj-chaudhary&" alt="ranuj-chaudhary" /></p>
 
