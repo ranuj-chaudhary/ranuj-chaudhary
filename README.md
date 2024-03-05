@@ -22,7 +22,8 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   </p>
-
+<br />
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranuj-chaudhary&show_icons=true&locale=en&layout=compact" alt="ranuj-chaudhary" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranuj-chaudhary&show_icons=true&locale=en" alt="ranuj-chaudhary" /></p>
