@@ -6,7 +6,7 @@
 <!-- - 👨‍💻 All of my projects are available at [Portfolio](https://addurl/) -->
 
 - 📫 How to reach me **ranujchoudhary@gmail.com**
-- 🌱 I’m currently learning React Query, Supabase...
+
 <!-- - 📄 Know about my experiences [Resume](https://addgoogledrive url) -->
 
 <h3 align="left">Connect with me:</h3>
