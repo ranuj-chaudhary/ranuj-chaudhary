@@ -29,4 +29,5 @@
 </p>
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranuj-chaudhary&" alt="ranuj-chaudhary" /></p>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
 
