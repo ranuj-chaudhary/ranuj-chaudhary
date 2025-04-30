@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranuj Chaudhary</h1>
-<h3 align="center">🌟 Frontend Developer | 2 Years Experience | React & UI/UX</h3>
-
+<h3 align="center">🌟 Front-End Developer </h3>
+<h4  aling="center" >Skills : React.js & TypeScript | Building Fast, Responsive & Scalable Web Apps | UI/UX Focused | Redux | Tailwind CSS </h4>
 <img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
 
 <p align="center">
