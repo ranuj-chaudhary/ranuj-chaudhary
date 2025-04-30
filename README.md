@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranuj Chaudhary</h1>
-<h3 align="center">🌟 Front-End Developer </h3>
-<h4  aling="center" >Skills : React.js & TypeScript | Building Fast, Responsive & Scalable Web Apps | UI/UX Focused | Redux | Tailwind CSS </h4>
-<img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
+<h3 align="center">🌟 Front-End Developer | 2 Yr Experience Building Responsive & Scalable Web Apps</h3>
+<!-- <img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ranuj-chaudhary&label=Profile%20views&color=blueviolet&style=flat-square" alt="ranuj-chaudhary" />
