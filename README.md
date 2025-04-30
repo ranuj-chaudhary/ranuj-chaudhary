@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ranuj Chaudhary</h1>
 <h3 align="center">🌟 Frontend Developer | 2 Years Experience | React & UI Specialist</h3>
 
+<img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ranuj-chaudhary&label=Profile%20views&color=blueviolet&style=flat-square" alt="ranuj-chaudhary" />
 </p>
@@ -72,4 +74,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranuj-chaudhary&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
-<img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
