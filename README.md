@@ -14,7 +14,7 @@
 - 👨‍💻 I’ve been building **responsive, accessible, and user-focused interfaces** for 2 years
 - 💡 Strong in **React, Tailwind CSS, UI/UX Design, Component Architecture**
 - 🌱 Currently exploring **Next.js, TypeScript & Web Performance**
-- 📬 Reach me at: **youremail@example.com**
+- 📬 Reach me at: **ranujchaudhary@example.com**
 - ⚡ Fun fact: I write better CSS than I write my grocery list 😄
 
 ---
