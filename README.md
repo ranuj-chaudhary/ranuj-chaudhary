@@ -1,33 +1,77 @@
-<h1 align="center">Hi, I'm Ranuj Chaudhary</h1>
-<h3 align="center">I'm a self-taught passionate Front-End Developer from India 🇮🇳</h3>
-<img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranuj-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="ranuj-chaudhary" /> </p> -->
+<h1 align="center">Hi 👋, I'm Ranuj Chaudhary</h1>
+<h3 align="center">🌟 Frontend Developer | 2 Years Experience | React & UI Specialist</h3>
 
-<!-- - 👨‍💻 All of my projects are available at [Portfolio](https://addurl/) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat-square" alt="yourusername" />
+</p>
 
-- 📫 How to reach me **ranujchoudhary@gmail.com**
+---
 
-<!-- - 📄 Know about my experiences [Resume](https://addgoogledrive url) -->
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 👨‍💻 I’ve been building **responsive, accessible, and user-focused interfaces** for 2 years
+- 💡 Strong in **React, Tailwind CSS, UI/UX Design, Component Architecture**
+- 🌱 Currently exploring **Next.js, TypeScript & Web Performance**
+- 📬 Reach me at: **youremail@example.com**
+- ⚡ Fun fact: I write better CSS than I write my grocery list 😄
+
+---
+
+### 🛠️ Tech Stack
+
 <p align="left">
-<a href="https://www.linkedin.com/in/ranuj-chaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranuj-chaudhary" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  </p>
-<br />
-<br />
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranuj-chaudhary&show_icons=true&locale=en&layout=compact" alt="ranuj-chaudhary" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranuj-chaudhary&show_icons=true&locale=en" alt="ranuj-chaudhary" />
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-<br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranuj-chaudhary&" alt="ranuj-chaudhary" /></p> -->
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+<img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
 
 
