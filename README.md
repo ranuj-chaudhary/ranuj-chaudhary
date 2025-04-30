@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranuj Chaudhary</h1>
-<h3 align="center">🌟 Frontend Developer | 2 Years Experience | React & UI Specialist</h3>
+<h3 align="center">🌟 Frontend Developer | 2 Years Experience | React & UI/UX</h3>
 
 <img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
 
@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 👨‍💻 I’ve been building **responsive, accessible, and user-focused interfaces** for 2 years
-- 💡 Strong in **React, Tailwind CSS, UI/UX Design, Component Architecture**
+- 💡 Intermediate in **React, Tailwind CSS, UI/UX Design, Component Architecture**
 - 🌱 Currently exploring **Next.js, TypeScript & Web Performance**
 - 📬 Reach me at: **ranujchaudhary@gmail.com**
 - ⚡ Fun fact: I write better CSS than I write my grocery list 😄
