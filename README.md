@@ -2,7 +2,7 @@
 <h3 align="center">🌟 Frontend Developer | 2 Years Experience | React & UI Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat-square" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=ranuj-chaudhary&label=Profile%20views&color=blueviolet&style=flat-square" alt="ranuj-chaudhary" />
 </p>
 
 ---
@@ -35,9 +35,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranuj-chaudhary&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranuj-chaudhary&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ranuj-chaudhary&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
 </p>
 
 ---
@@ -53,15 +53,15 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/ranuj-chaudhary/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://x.com/RANUJCHOUDHARY" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <!-- <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -69,9 +69,7 @@
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranuj-chaudhary&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 <img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
-
-
