@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranuj Chaudhary</h1>
-<h3 align="center">🌟 Front-End Developer | 2 Yr Experience Building Responsive & Scalable Web Apps</h3>
+<h3 align="center">🌟 Front-End Developer | 2 Yr Experience</h3>
 <!-- <img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/> -->
 
 <p align="center">
