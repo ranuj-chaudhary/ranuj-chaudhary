@@ -12,7 +12,7 @@
 
 - 👨‍💻 I’ve been building **responsive, accessible, and user-focused interfaces** for 2 years
 - 💡 Intermediate in **React, Tailwind CSS, UI/UX Design, Component Architecture**
-- 🌱 Currently exploring **Jest & React Testing Library, TypeScript & Web Performance**
+- 🌱 Currently exploring **VUE JS, NUXT JS  & TypeScript**
 - 📬 Reach me at: **ranujchaudhary@gmail.com**
 - ⚡ Fun fact: I write better CSS than I write my grocery list 😄
 
